@@ -1,0 +1,14 @@
+{
+  "name": "vide-plugin-bucket-vue",
+  "version": "0.0.1",
+  "author": "vic.wang",
+  "keywords": [
+    "vide-plugin",
+    "bucket-vue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:debuggap/vide-plugin-bucket-vue.git"
+  },
+  "main": "index.js"
+}
